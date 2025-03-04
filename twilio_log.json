@@ -1,0 +1,138 @@
+[
+    {
+        "id": "SM4c745552b2e4280a7496353f25d77880",
+        "from": "whatsapp:+923399009975",
+        "message": "Hi",
+        "status": "received",
+        "date": "2025-03-04 08:43:53",
+        "ai_response": "Hello! How can I assist you today?"
+    },
+    {
+        "id": "SM8b93b32685ad69eb36f34dc403a73943",
+        "from": "whatsapp:+923399009975",
+        "message": "Tell me something",
+        "status": "received",
+        "date": "2025-03-04 08:44:12",
+        "ai_response": "Sure, what would you like to know more about?"
+    },
+    {
+        "id": "SMda77cfc8dacf7919983b1dca6474a726",
+        "from": "whatsapp:+923399009975",
+        "message": "Lok",
+        "status": "received",
+        "date": "2025-03-04 08:44:15",
+        "ai_response": "Hello! How can I assist you today?"
+    },
+    {
+        "id": "SMab1790d1ee7d10bf65e0e8f2f842b45a",
+        "from": "whatsapp:+923399009975",
+        "message": "Many ap ki",
+        "status": "received",
+        "date": "2025-03-04 08:44:28",
+        "ai_response": "Kaise madad kar sakta hoon aap ki?"
+    },
+    {
+        "id": "SM8e9364afb0edd66a12c1e2a26e3fabb3",
+        "from": "whatsapp:+923399009975",
+        "message": "Pahly bi",
+        "status": "received",
+        "date": "2025-03-04 08:44:32",
+        "ai_response": "I'm sorry, I don't understand what you mean by \"Pahly bi.\" Can you please provide more context or rephrase your question? How can I assist you today?"
+    },
+    {
+        "id": "SMf743e5a65c3fa6c15a3aeaa143c16e57",
+        "from": "whatsapp:+923399009975",
+        "message": "Kaha ta",
+        "status": "received",
+        "date": "2025-03-04 08:44:36",
+        "ai_response": "Kya madad chahiye aapko?"
+    },
+    {
+        "id": "SM10be5fb2aa50cad28a3b1616b3511e7f",
+        "from": "whatsapp:+923399009975",
+        "message": "K asa na karo",
+        "status": "received",
+        "date": "2025-03-04 08:44:41",
+        "ai_response": "Mujhe aapki madad karne mein khushi hogi. Kya aapko kisi cheez ki madad chahiye?"
+    },
+    {
+        "id": "SM162c3cfad02dc40f641eeebdfc32725b",
+        "from": "whatsapp:+923399009975",
+        "message": "Tum Urdu bol dakty ho",
+        "status": "received",
+        "date": "2025-03-04 08:44:54",
+        "ai_response": "Ji, main Urdu bol sakta hoon. Kya aapko meri madad chahiye?"
+    },
+    {
+        "id": "SM1eb361a98928d55de6b9ae11e408f3c1",
+        "from": "whatsapp:+923399009975",
+        "message": "Kia",
+        "status": "received",
+        "date": "2025-03-04 08:44:57",
+        "ai_response": "Kia is a South Korean automotive manufacturer known for producing a wide range of vehicles, including cars, SUVs, and electric vehicles. Kia is a subsidiary of Hyundai Motor Group and has gained a reputation for producing reliable and stylish vehicles at competitive prices. Let me know if you would like more information about Kia vehicles or anything else related to the brand."
+    },
+    {
+        "id": "SM89acb2cb43cf646e89348616ad0598ff",
+        "from": "whatsapp:+923399009975",
+        "message": "Tum Kon ho \ud83d\ude00",
+        "status": "received",
+        "date": "2025-03-04 09:41:02",
+        "ai_response": "Main ek virtual assistant hoon. Kaise madad kar sakta hoon aapki? \ud83d\ude0a"
+    },
+    {
+        "id": "SMcbdda95ef5b763d94a8e66334f8dd656",
+        "from": "whatsapp:+923399009975",
+        "message": "Hi bro",
+        "status": "received",
+        "date": "2025-03-04 09:48:03",
+        "ai_response": "Hello! How can I assist you today?"
+    },
+    {
+        "id": "SMfd4179080a3b7b8427aa45378cddf863",
+        "from": "whatsapp:+923205404869",
+        "message": "Hi",
+        "status": "received",
+        "date": "2025-03-04 09:55:23",
+        "ai_response": "Hello! How can I help you today?"
+    },
+    {
+        "id": "SM56086bb784ff271af65fc4ca51e05e73",
+        "from": "whatsapp:+923205404869",
+        "message": "Tell me something",
+        "status": "received",
+        "date": "2025-03-04 09:56:20",
+        "ai_response": "Sure! Did you know that the human brain is capable of storing a huge amount of information, with some estimates suggesting it can hold up to 2.5 petabytes? That's roughly equivalent to 3 million hours of TV shows!"
+    },
+    {
+        "id": "SM6ffcc54aed80969ac1931b5ddec86a2c",
+        "from": "whatsapp:+923205404869",
+        "message": "Hi",
+        "status": "received",
+        "date": "2025-03-04 10:04:13",
+        "ai_response": "Hello! How can I assist you today?"
+    },
+    {
+        "id": "SM66b3cbfe3ea6da6c0a5aeb549dd3cd97",
+        "from": "whatsapp:+923205404869",
+        "message": "How can I help you",
+        "status": "received",
+        "date": "2025-03-04 10:05:30",
+        "ai_response": "I'm here to help you with any questions or tasks you have. How can I assist you today?"
+    },
+    {
+        "id": "SMc8b6a8f37226a4d22bed407348ad3bdd",
+        "from": "",
+        "message": "",
+        "status": "failed",
+        "date": "2025-03-04 11:26:39",
+        "ai_response": "Hello! How can I assist you today?"
+    },
+    {
+        "id": "SMa509756937e19b6b8511abfd61954754",
+        "from": "whatsapp:+923205404869",
+        "message": "How are you",
+        "status": "received",
+        "date": "2025-03-04 11:30:07",
+        "ai_response": "I'm here and ready to help you with anything you need. How can I assist you today?"
+    }
+]
