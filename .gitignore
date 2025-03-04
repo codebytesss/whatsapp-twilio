@@ -1,0 +1,54 @@
+# Ignore .env files
+.env
+.env.local
+.env.*.local
+
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore node_modules if using Node.js for frontend dependencies
+/node_modules/
+
+# Ignore log files and temporary files
+*.log
+*.cache
+*.tmp
+
+# Ignore IDE specific files
+.idea/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+*.out
+*.class
+*.pyc
+*.pyo
+*.pyd
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
+# Ignore build directories
+/build/
+dist/
+
+# Ignore other files
+*.bak
+*.swp
+*.swo
+*.swn
+*.swn
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
